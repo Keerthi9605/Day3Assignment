@@ -19,7 +19,9 @@ public class MyClass {
 		
 			System.out.println(data[i]);
 		
-		
+		for(int d:data)
+			
+			System.out.println(d);
 
 	}
 
